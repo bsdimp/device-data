@@ -30,7 +30,7 @@ Status: *early discussion DRAFT*
 | ida | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | iir | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | retire |
 | ips | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
-| iscsi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| iscsi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  remains (parsing glitch?) |
 | isp | 2 | 2 | 0 | 0 | 3 | 1 | 0 | 2 | 3 | remains |
 | mlx | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | mly | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
@@ -51,6 +51,9 @@ Status: *early discussion DRAFT*
 | sym | 5 | 14 | 3 | 0 | 1 | 0 | 1 | 3 | 0 | remains |
 | trm | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | twa | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 0 | remains |
+| twe | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | remains |
 | tws | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
 | umass | 5 | 15 | 6 | 2 | 7 | 17 | 30 | 83 | 37 | remains |
-| virtio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| virtio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (parsing glitch?) |
+| Data Points | 143 | 226 | 75 | 53 | 57 | 55 | 177 | 513 | 180 | total |
+
