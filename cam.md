@@ -1,6 +1,12 @@
 # CAM drivers in FreeBSD over time
 
-Status is my extremely preliminary determination about keep / toss on all these drivers based on recent use.
+Status is my extremely preliminary determination about keep / toss on
+all these drivers based on recent use.  Rough retirement criteria:
+fewer than 5 reported users on FreeBSD 10 or newer, with a few
+exceptions for hardware that is known to work or used to be super
+popular or both and comes close to the threshold. This is about 0.5%
+of the machines reported. Also, drivers committed in the last 5 years
+are also retained.
 
 Status: *early discussion DRAFT*
 
@@ -24,7 +30,7 @@ Status: *early discussion DRAFT*
 | fsl | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
 | hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe remains (2011) |
 | hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2013) |
-| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe retire (2005) |
+| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | likely retire (2005) |
 | hptnr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2013) |
 | hptrr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | remains (2012) |
 | ida | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
