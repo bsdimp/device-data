@@ -22,38 +22,37 @@ Status: *early discussion DRAFT*
 | dpt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | esp | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | fsl | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
-| hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
-| hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
-| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
-| hptnr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
-| hptrr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | remains |
+| hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe remains (2011) |
+| hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2013) |
+| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe retire (2005) |
+| hptnr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2013) |
+| hptrr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | remains (2012) |
 | ida | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | iir | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | retire |
 | ips | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
-| iscsi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  remains (parsing glitch?) |
+| iscsi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (parsing glitch?) |
 | isp | 2 | 2 | 0 | 0 | 3 | 1 | 0 | 2 | 3 | remains |
 | mlx | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | mly | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | mpr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 3 | remains |
 | mps | 0 | 0 | 0 | 0 | 1 | 2 | 9 | 24 | 8 | remains |
 | mpt | 3 | 2 | 4 | 3 | 2 | 3 | 18 | 13 | 2 | remains |
-| mrsas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | remains |
+| mrsas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | likely remains |
 | mvs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
 | ncr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | ncv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | nsp | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
-| pms | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| pms | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2015) |
 | sbp | 3 | 43 | 14 | 3 | 1 | 3 | 1 | 2 | 4 | remains |
 | siis | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 4 | 0 | remains |
-| smartpqi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| smartpqi | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2017) |
 | stg | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | storvsc | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | remains |
 | sym | 5 | 14 | 3 | 0 | 1 | 0 | 1 | 3 | 0 | remains |
 | trm | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | twa | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 0 | remains |
 | twe | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | remains |
-| tws | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| tws | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe retire |
 | umass | 5 | 15 | 6 | 2 | 7 | 17 | 30 | 83 | 37 | remains |
 | virtio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (parsing glitch?) |
 | Data Points | 143 | 226 | 75 | 53 | 57 | 55 | 177 | 513 | 180 | total |
-
