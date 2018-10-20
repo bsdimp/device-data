@@ -27,7 +27,7 @@ Status: *early discussion DRAFT*
 | ciss | 3 | 5 | 2 | 4 | 0 | 3 | 3 | 7 | 1 | remains |
 | dpt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | esp | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
-| fsl | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| fsl | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (powerpc) |
 | hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe remains (2011) |
 | hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2013) |
 | hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | likely retire (2005) |
@@ -44,7 +44,7 @@ Status: *early discussion DRAFT*
 | mps | 0 | 0 | 0 | 0 | 1 | 2 | 9 | 24 | 8 | remains |
 | mpt | 3 | 2 | 4 | 3 | 2 | 3 | 18 | 13 | 2 | remains |
 | mrsas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | likely remains |
-| mvs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains |
+| mvs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2015) |
 | ncr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | ncv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | nsp | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
@@ -62,3 +62,5 @@ Status: *early discussion DRAFT*
 | umass | 5 | 15 | 6 | 2 | 7 | 17 | 30 | 83 | 37 | remains |
 | virtio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (parsing glitch?) |
 | Data Points | 143 | 226 | 75 | 53 | 57 | 55 | 177 | 513 | 180 | total |
+
+Note: The NYCBUG data is very sparse prior to 10.x due to uneven submissions. Also, the 12.x data skews to developer favorites or the experimental due to the nature of -CURRENT. Data in general does not include large deployments.
