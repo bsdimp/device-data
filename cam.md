@@ -2,6 +2,8 @@
 
 Status is my extremely preliminary determination about keep / toss on all these drivers based on recent use.
 
+Status: *early discussion DRAFT*
+
 | Driver | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | aac | 6 | 9 | 1 | 1 | 0 | 3 | 0 | 0 | 1 | likely retire |
