@@ -27,17 +27,17 @@ Status: *early discussion DRAFT*
 | ahd | 1 | 3 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | retire (driver has known issues, should update to a MPT card) |
 | aic | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | amr | 4 | 3 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | retire unless more users show up |
-| ata | 127 | 208 | 68 | 43 | 42 | 22 | 71 | 116 | 21 | remains (ppopular in VM setups lately) |
+| ata | 127 | 208 | 68 | 43 | 42 | 22 | 71 | 116 | 21 | remains (popular in VM setups lately) |
 | bt | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | ciss | 3 | 5 | 2 | 4 | 0 | 3 | 3 | 8 | 1 | remains |
 | dpt | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | esp | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | fsl | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (powerpc) |
-| hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (shovel ware by vendor with binary blobs only) |
-| hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (shovel ware by vendor with binary blobs only) |
-| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (shovel ware by vendor with binary blobs only) |
-| hptnr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (shovel ware by vendor with binary blobs only) |
-| hptrr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | retire (shovel ware by vendor with binary blobs only) |
+| hpt27xx | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (abaondoned by vendor with binary blobs only) |
+| hptiop | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (abandoned by vendor) |
+| hptmv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (abandoned by vendor with binary blobs only) |
+| hptnr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remain (binary blobs threaten its future) |
+| hptrr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | retire (abandonware by vendor with binary blobs only) |
 | ida | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
 | iir | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | retire |
 | ips | 0 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
@@ -61,9 +61,9 @@ Status: *early discussion DRAFT*
 | storvsc | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | remains (has lots of known users) |
 | sym | 5 | 14 | 3 | 0 | 1 | 0 | 1 | 3 | 0 | remains (should transition to mpt card, but things work well enough to retain) |
 | trm | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
-| twa | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 0 | remains (popular late 90s, still in use) |
-| twe | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | maybe remains (popular 90's, maybe still in use) |
-| tws | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (too old to be relevant) |
+| twa | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 4 | 0 | maybe retire (popular mid-00's, limited modern use) |
+| twe | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | retire (too old to be relevant) |
+| tws | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | maybe retire (newest of the 3ware line) |
 | umass | 5 | 15 | 6 | 2 | 7 | 17 | 30 | 86 | 39 | remains |
 | virtio | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (parsing glitch underrepsents use) |
 | Data Points | 143 | 226 | 75 | 53 | 57 | 55 | 177 | 530 | 186 | total |
