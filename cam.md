@@ -50,7 +50,7 @@ Status: *early discussion DRAFT*
 | mpt | 3 | 2 | 4 | 3 | 2 | 3 | 18 | 14 | 2 | remains |
 | mrsas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | remains (more known usage than this data indicates) |
 | mvs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | remains (2015) as used by many marvel SoC arrangements |
-| ncr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire |
+| ncr | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (obsoleted by the sym driver in 3.x) |
 | ncv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (marked gone in 12) |
 | nsp | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | retire (marked gone in 12) |
 | pms | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | likely to be retired (relevance has passed) |
